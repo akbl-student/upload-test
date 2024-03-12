@@ -1,5 +1,5 @@
 {
-  "name": "4famous-quote",
+  "name": "6stripping-name",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "@types/node": "^20.11.24"
+  "dependencies": {
+    "@types/node": "^20.11.26"
   }
 }
