@@ -1,5 +1,5 @@
 {
-  "name": "6stripping-name",
+  "name": "7.namber-eight",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@types/node": "^20.11.26"
+    "@types/node": "^20.11.25"
   }
 }
